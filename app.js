@@ -1,3 +1,10 @@
+//git cmds
+//git init
+//git status
+//git add .
+//git commit -m ""
+//git push -u origin master
+
 require('dotenv').config()
 const express = require("express");
 const bodyParser = require("body-parser");
